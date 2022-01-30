@@ -1,4 +1,22 @@
 {
+  "CF144493935": {
+    "contest_id": 1627,
+    "language": "GNU C++17",
+    "path": "codeforces\\1627\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Not Sitting",
+    "problem_url": "https://codeforces.com/contest/1627/problem/B",
+    "submission_id": "CF144493935",
+    "submission_url": "https://codeforces.com/contest/1627/submission/144493935",
+    "tags": [
+      "games",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/30/2022 16:01"
+  },
   "CF144622146": {
     "contest_id": 1632,
     "language": "GNU C++17",
