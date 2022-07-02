@@ -1,4 +1,21 @@
 {
+  "CF162566851": {
+    "contest_id": 1697,
+    "language": "GNU C++17",
+    "path": "codeforces\\1697\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Promo",
+    "problem_url": "https://codeforces.com/contest/1697/problem/B",
+    "submission_id": "CF162566851",
+    "submission_url": "https://codeforces.com/contest/1697/submission/162566851",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/02/2022 21:53"
+  },
   "CF162786080": {
     "contest_id": 1699,
     "language": "GNU C++17",
