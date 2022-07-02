@@ -1,4 +1,21 @@
 {
+  "CF162564172": {
+    "contest_id": 1697,
+    "language": "GNU C++17",
+    "path": "codeforces\\1697\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parkway Walk",
+    "problem_url": "https://codeforces.com/contest/1697/problem/A",
+    "submission_id": "CF162564172",
+    "submission_url": "https://codeforces.com/contest/1697/submission/162564172",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/02/2022 21:26"
+  },
   "CF162566851": {
     "contest_id": 1697,
     "language": "GNU C++17",
