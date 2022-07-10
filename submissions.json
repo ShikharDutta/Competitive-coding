@@ -1,4 +1,20 @@
 {
+  "CF163529060": {
+    "contest_id": 1702,
+    "language": "GNU C++17",
+    "path": "codeforces\\1702\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Polycarp Writes a String from Memory",
+    "problem_url": "https://codeforces.com/contest/1702/problem/B",
+    "submission_id": "CF163529060",
+    "submission_url": "https://codeforces.com/contest/1702/submission/163529060",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/10/2022 20:59"
+  },
   "CF163821447": {
     "contest_id": 1703,
     "language": "GNU C++17",
