@@ -1,4 +1,22 @@
 {
+  "CF166394732": {
+    "contest_id": 1704,
+    "language": "GNU C++17",
+    "path": "codeforces\\1704\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Virus",
+    "problem_url": "https://codeforces.com/contest/1704/problem/C",
+    "submission_id": "CF166394732",
+    "submission_url": "https://codeforces.com/contest/1704/submission/166394732",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Jul/31/2022 21:39"
+  },
   "CF166561715": {
     "contest_id": 1714,
     "language": "GNU C++17",
