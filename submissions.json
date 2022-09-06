@@ -1241,6 +1241,22 @@
     ],
     "timestamp": "Sep/01/2022 22:59"
   },
+  "CF171087849": {
+    "contest_id": 1726,
+    "language": "GNU C++17",
+    "path": "codeforces\\1726\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Mainak and Array",
+    "problem_url": "https://codeforces.com/contest/1726/problem/A",
+    "submission_id": "CF171087849",
+    "submission_url": "https://codeforces.com/contest/1726/submission/171087849",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Sep/06/2022 20:28"
+  },
   "CF171132413": {
     "contest_id": 1726,
     "language": "GNU C++17",
